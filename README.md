@@ -6,7 +6,7 @@
     <h3 align="center">Introductory organization readme &amp; files.</h3>
 </p>
 
-# About
+## About
 
 This repository is a collection of files and documentation like the README, LICENSE, and CONTRIBUTING files. It is meant to be used to keep important documents in a single place or serve as a template for new repositories documents in the Ecma Uzbekistan's Network.
 
